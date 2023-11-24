@@ -1,0 +1,48 @@
+{
+    "main":{
+        "name": "Rahadi Fauzan",
+        "description": "A dedicated Computer Engineering graduate with a strong grasp of diverse programming languages, frameworks, and technologies developed through coursework and a year-long engineering internship. I am passionate about pursuing a carrer as a Front-end Engineer, Back-end Engineer, and QA Engineer.",
+        "resume":{
+            "experience" : [
+                {
+                    "roleAtCompany": "Teaching Assistant - Pacman",
+                    "status" : "Part-Time",
+                    "period": "March - September 2023",
+                    "jobDesc": "Assist the 'Introduction to Engineering with Python' class with the following jobdesk: Provide regular mentoring sessions 3 times a week for 5-20 participants, organize live online class sessions 1-2 times a week, assess and provide feedback on projects, also moderate a Discord group with 180+ members."
+                },
+                {
+                    "roleAtCompany": "Engineering Specialist - Binus University",
+                    "status" : "Internship",
+                    "period": "September - February 2023",
+                    "jobDesc": "Support Departmental activities and research as an Engineering Specialist Intern in the Product Community Development Division of the Computer Engineering Department. Here are some of the things I did while working here. Engaged in diverse projects: Developed a smart lamp integrating speaker and humidifier functionalities using ESP32, DFPlayer Mini MP3, and Humidifier. Crafted a cartesian motion platform system for digital microscope development. Designed an attention-grabbing LED chaser game for campus fair department booths. Contributed by devising trial classes, workshops, and themed extracurricular modules. Actively pursued in-house training encompassing 3D printing, PCB development, and operation of heavy equipment."
+                },
+                {
+                    "roleAtCompany": "IT Support Engineer - PT. Boon Software",
+                    "status" : "Internship",
+                    "period": "February - August 2022",
+                    "jobDesc": "In my role, I provided comprehensive technical support for computer systems, covering configuration, installation, and troubleshooting of hardware, software, as well as application and database servers. I implemented an efficient Apache log rotation system that automatically renames log files when they hit a specific size, facilitate log management for the IT team. I conducted daily monitoring and upkeep of around 16 client servers using remote applications."
+                }
+            ]
+        },
+        "projects":{
+            "web" : [
+                {
+                    "title": "Math 4 Dumb",
+                    "status" : "On Development",
+                    "imgUrl": ["mathdumb1.png", "mathdumb2.png", "mathdumb3.png", "mathdumb4.png", "mathdumb5.png", "mathdumb6.png", "mathdumb7.png", "mathdumb8.png", "mathdumb9.png"],
+                    "techStack": ["Vue.js", "Tailwind", "Express.js", "JWT", "Bcrypt", "Cookies", "MySql"],
+                    "projectView": ["Medium|https://medium.com/@rahadifauzan7/math-4-dumb-website-project-8fa2381f7629"],
+                    "projectDesc": "This web aims to help students from elementary school to high school in learning math easily and fun. Because, on this web the material will be presented interactively and students can create discussion threads when facing difficult material so that it can be answered by other users. This web is built with Vue.js and Tailwind for the front-end. Then, using Express.js as a backend endpoint and MySql for database storage where storage includes account storage, material bookmarks, and discussion posts. And account security has also used Bcrypt, JWT, and Cookies."
+                },
+                {
+                    "title": "Digital Signage Video Uploader",
+                    "status" : "Finished",
+                    "imgUrl": ["digisignage1.png", "digisignage2.png", "digisignage3.png", "digisignage4.png", "digisignage5.png", "digisignage6.png", "digisignage7.png"],
+                    "techStack": ["Vue.js", "Firebase"],
+                    "projectView": ["Github|https://github.com/zrahadiz/digital-signage", "Live Demo|https://digisignage-7f419.web.app/"],
+                    "projectDesc": "This website functions to manage video that will be displayed on digital signage (Raspberry Pi 3), where through this web we can upload videos, schedule when videos will be displayed, and cancel videos to be displayed. The data of video files, and video schedule information will be stored in Firebase."
+                }
+            ]
+        }
+    }
+}
