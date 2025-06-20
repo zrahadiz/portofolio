@@ -5,7 +5,13 @@
         "resume":{
             "experience" : [
                 {
-                    "roleAtCompany": "Teaching Assistant - Pacman",
+                    "roleAtCompany": "Junior Software Engineer - Pacman",
+                    "status" : "Part-Time",
+                    "period": "January 2024 - Ongoing",
+                    "jobDesc": "As a Junior Software Engineer, I was responsible for developing and maintaining digital solutions to meet stakeholder needs, including designing responsive web applications, resolving software bugs, and collaborating with cross-functional teams to deliver high-performing, user-friendly platforms—most notably a government website for distributing free rice cookers to priority groups."
+                },
+                {
+                    "roleAtCompany": "Teaching Assistant - Pacmann",
                     "status" : "Part-Time",
                     "period": "March - September 2023",
                     "jobDesc": "Assist the 'Introduction to Engineering with Python' class with the following jobdesk: Provide regular mentoring sessions 3 times a week for 5-20 participants, organize live online class sessions 1-2 times a week, assess and provide feedback on projects, also moderate a Discord group with 180+ members."
@@ -42,7 +48,16 @@
                     "projectView": ["Github|https://github.com/zrahadiz/digital-signage", "Live Demo|https://digisignage-7f419.web.app/"],
                     "projectDesc": "This website functions to manage video that will be displayed on digital signage (Raspberry Pi 3), where through this web we can upload videos, schedule when videos will be displayed, and cancel videos to be displayed. The data of video files, and video schedule information will be stored in Firebase."
                 }
-            ]
+            ],
+            "work": [
+                {
+                    "title": "PLTS Atap",
+                    "logo": "logoPlts.png",
+                    "shortDesc": "Aplikasi perizinan PLTS Atap PLN merupakan aplikasi yang dapat digunakan masyarakat, pelanggan PLN,  badan usaha, pemerintah, pelaku usaha untuk memproses perizinan kuota PLTS Atap berbasis kuota",
+                    "role": "Frontend Developer",
+                    "url": "https://layanan.pln.co.id/plts/login"
+                }
+            ] 
         }
     }
 }
