@@ -89,7 +89,7 @@ class Experience extends Component {
         target="_blank"
         rel="noreferrer"
         key={project.title}
-        className="group relative rounded-xl overflow-hidden shadow-lg bg-slate-800 hover:shadow-xl transition duration-300"
+        className="group relative rounded-xl overflow-hidden shadow-lg bg-slate-600 hover:shadow-xl transition duration-300"
       >
         {/* Project Logo */}
         <img
