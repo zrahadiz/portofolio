@@ -60,9 +60,16 @@
                 {
                     "title": "AML 2024",
                     "logo": "logoAml.png",
-                    "shortDesc": "Aplikasi pengajuan serta monitor penyaluran bantuan Alat Masak Listrik (AML) oleh pemerintah Indonesia melalui Kementrian ESDM",
+                    "shortDesc": "Aplikasi pengajuan serta monitor untuk penyaluran bantuan Alat Masak Listrik (AML) oleh pemerintah Indonesia melalui Kementrian ESDM",
                     "role": "Frontend Developer dan Service",
                     "url": "https://portalapp.iconpln.co.id/aml2024/"
+                },
+                {
+                    "title": "BPBL 2025",
+                    "logo": "logoBPBL.png",
+                    "shortDesc": "Aplikasi pengajuan serta monitor untuk penyaluran Bantuan Pasang Baru Listrik (BPBL) oleh pemerintah Indonesia melalui Kementrian ESDM",
+                    "role": "Frontend Developer dan Service",
+                    "url": "http://121.100.23.228:9100/"
                 }
             ] 
         }
