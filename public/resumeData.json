@@ -1,13 +1,13 @@
 {
     "main":{
         "name": "Rahadi Fauzan",
-        "description": "A dedicated Computer Engineering graduate with a strong grasp of diverse programming languages, frameworks, and technologies developed through coursework and a year-long engineering internship. I am passionate about pursuing a carrer as a Front-end Engineer, Back-end Engineer, and QA Engineer.",
+        "description": "A Computer Engineering Best Graduate from BINUS University who loves exploring how technology can solve real-world problems and improve people’s lives. Experienced in software development, IT support, and teaching, I enjoy learning new things and continuously growing every day. I’m eager to contribute in a collaborative environment and help create innovative solutions that address business needs and deliver lasting value.",
         "resume":{
             "experience" : [
                 {
-                    "roleAtCompany": "Junior Software Engineer - Pacman",
-                    "status" : "Part-Time",
-                    "period": "January 2024 - Ongoing",
+                    "roleAtCompany": "Junior Software Engineer - PLN Icon Plus",
+                    "status" : "Full-Time",
+                    "period": "January 2024 - June 2025",
                     "jobDesc": "As a Junior Software Engineer, I was responsible for developing and maintaining digital solutions to meet stakeholder needs, including designing responsive web applications, resolving software bugs, and collaborating with cross-functional teams to deliver high-performing, user-friendly platforms—most notably a government website for distributing free rice cookers to priority groups."
                 },
                 {
