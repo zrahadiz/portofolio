@@ -83,7 +83,7 @@ class About extends Component {
           </ul>
           <div className="mt-2">
             <a
-              href="/documents/CV_Rahadi Fauzan_ITProgram.pdf"
+              href="/documents/CV_Rahadi Fauzan_ITField.pdf"
               download="CV_Rahadi-Fauzan"
               target="_blank"
               rel="noreferrer"

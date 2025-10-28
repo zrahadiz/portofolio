@@ -33,6 +33,14 @@
         "projects":{
             "web" : [
                 {
+                    "title": "DnD AI Game",
+                    "status" : "On Development",
+                    "imgUrl": ["dnd1.png", "dnd2.png", "dnd3.png"],
+                    "techStack": ["Next.JS", "Drizzle ORM", "Socket.IO", "Docker", "PostgreSQL"],
+                    "projectView": ["Github|https://github.com/zrahadiz/DnDGames"],
+                    "projectDesc": "DnD AI Game is an online, AI-assisted Dungeons & Dragons experience where players can create characters, explore adventures, and interact with an AI-powered Dungeon Master in real time. Built with Next.js, Socket.IO, and PostgreSQL, the game delivers dynamic multiplayer storytelling with a modern web interface. The project uses Drizzle ORM for data management and Docker for scalable deployment, and is currently in active development."
+                },
+                {
                     "title": "Moo Nonton",
                     "status" : "Finished",
                     "imgUrl": ["moononton2.png", "moononton1.png", "moononton3.png", "moononton4.png"],

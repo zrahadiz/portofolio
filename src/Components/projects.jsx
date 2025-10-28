@@ -120,7 +120,7 @@ function Experience({ data }) {
               </div>
 
               {/* Text Content */}
-              <div className="p-5">
+              <div className="p-5 flex flex-col gap-3 flex-grow">
                 <h3 className="text-xl font-bold text-white">
                   {project.title}
                 </h3>
